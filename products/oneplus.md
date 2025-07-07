@@ -42,14 +42,14 @@ releases:
     releaseLabel: "12R"
     releaseDate: 2024-01-23 # https://community.oneplus.com/thread/1514801169317232648
     eoas: 2028-01-23 # approximation "4 major Android updates" https://community.oneplus.com/thread/1211291251581124608
-    eol: 2029-01-23
+    eol: 2029-01-23 # 5 years of security updates https://community.oneplus.com/thread/1211291251581124608
     discontinued: false
     supportedOxygenOSVersions: "14" # https://oxygenupdater.com/article/401/
 
 -   releaseCycle: "12"
     releaseDate: 2024-01-23 # https://community.oneplus.com/thread/1514801169317232648
     eoas: 2028-01-23 # approximation "4 major Android updates" https://community.oneplus.com/thread/1211291251581124608
-    eol: 2029-01-23
+    eol: 2029-01-23 # 5 years of security updates https://community.oneplus.com/thread/1211291251581124608
     discontinued: false
     supportedOxygenOSVersions: "14" # https://oxygenupdater.com/article/396/
 
@@ -57,7 +57,7 @@ releases:
     releaseLabel: "11R"
     releaseDate: 2023-02-07 #https://oxygenupdater.com/article/379/
     eoas: 2027-02-07 # approximation "4 major Android updates" https://community.oneplus.com/thread/1211291251581124608
-    eol: 2028-02-07
+    eol: 2028-02-07 # 5 years of security updates https://community.oneplus.com/thread/1211291251581124608
     discontinued: false
     link: https://www.oneplus.in/11r
     supportedOxygenOSVersions: "13 - 14" # https://oxygenupdater.com/article/431/ https://community.oneplus.com/thread/1480591576202739713
@@ -65,7 +65,7 @@ releases:
 -   releaseCycle: "11"
     releaseDate: 2023-02-07 # https://oxygenupdater.com/article/379/
     eoas: 2027-02-07 # approximation "4 major Android updates" https://community.oneplus.com/thread/1211291251581124608
-    eol: 2028-02-07
+    eol: 2028-02-07 # 5 years of security updates https://community.oneplus.com/thread/1211291251581124608
     discontinued: false
     link: https://service.oneplus.com/us/search/search-detail?id=2123192&articleIndex=2
     supportedOxygenOSVersions: "13 - 14" # https://oxygenupdater.com/article/426/ https://community.oneplus.com/thread/1465453057260126214
